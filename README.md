@@ -2,6 +2,22 @@
 [![Microsoft Public License](https://img.shields.io/github/license/DecaTec/Portable-WebDAV-Library.svg)](https://github.com/DecaTec/Portable-WebDAV-Library/blob/master/LICENSE)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jr%40decatec%2ede&lc=US&item_name=Portable%20WebDAV%20Library&no_note=1&no_shipping=1&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
 
+
+https://decatec.de/programmierung/portable-webdav-library-nun-auf-nuget-verfuegbar/
+
+alt:
+
+https://github.com/DecaTec/Portable-WebDAV-Library
+
+neu:
+
+https://codeberg.org/DecaTec/Portable-WebDAV-Library
+
+doku:
+
+https://decatec.de/ext/PortableWebDAVLibrary/Doc/html/379fbde2-659c-4cd5-9eb6-0850cd041621.htm
+
+
 # Project description
 
 The Portable WebDAV Library is a strongly typed, async WebDAV client library which is fully compliant to [RFC 4918](http://tools.ietf.org/html/rfc4918), [RFC 4331](https://tools.ietf.org/html/rfc4331), [Additional WebDAV Collection Properties](https://tools.ietf.org/html/draft-hopmann-collection-props-00) and a some WebDAV properties specific to IIS WebDAV. It is implemented as [.NETStandard 1.1](https://docs.microsoft.com/en-us/dotnet/articles/standard/library) library in oder to be used on any platform supporting .NETStandard 1.1.
